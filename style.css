@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('background(3).jpg'); /* Укажи имя файла */
+    background-image: url('background.jpg'); /* Укажи имя файла */
     background-size: cover; /* Растягивает изображение на весь экран */
     background-position: center; /* Центрирует изображение */
     display: flex;
